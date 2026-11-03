@@ -1,0 +1,9 @@
+Language,Model,Samples,Accuracy (%),Precision (%),Recall (%),Macro F1 (%)
+Hindi,Logistic Regression,156,83.33,83.35,83.26,83.29
+Hindi,Full-Dataset mBERT,156,89.74,89.73,89.73,89.73
+Malayalam,Logistic Regression,156,79.49,79.47,79.51,79.47
+Malayalam,Full-Dataset mBERT,156,87.18,87.31,87.31,87.18
+Tamil,Logistic Regression,156,81.41,81.54,81.26,81.32
+Tamil,Full-Dataset mBERT,156,85.26,85.33,85.36,85.26
+Telugu,Logistic Regression,156,82.05,82.06,81.98,82.0
+Telugu,Full-Dataset mBERT,156,87.82,87.89,87.93,87.82

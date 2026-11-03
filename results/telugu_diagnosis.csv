@@ -1,0 +1,9 @@
+﻿text,expected,baseline,mbert,mbert_confidence,mbert_correct
+ఈ సినిమా చాలా బాగుంది.,positive,positive,negative,0.7352,False
+ఈ సినిమా అద్భుతంగా ఉంది.,positive,positive,positive,0.7723,True
+నాకు ఈ సినిమా చాలా నచ్చింది.,positive,positive,positive,0.6708,True
+ఈ సినిమా చాలా చెత్తగా ఉంది.,negative,negative,positive,0.534,False
+ఈ సినిమా అసలు బాగాలేదు.,negative,negative,negative,0.9052,True
+ఈ సినిమా చాలా నిరాశపరిచింది.,negative,negative,positive,0.6565,False
+ఈ సినిమా చాలా బాగుంది కానీ ముగింపు బాలేదు.,negative,negative,negative,0.8061,True
+ఈ సినిమా బాగాలేదు అనుకున్నాను కానీ చాలా నచ్చింది.,positive,negative,positive,0.5928,True

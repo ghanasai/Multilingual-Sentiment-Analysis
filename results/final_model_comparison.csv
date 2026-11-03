@@ -1,0 +1,3 @@
+Model,Accuracy (%),Precision (%),Recall (%),Macro F1 (%)
+Logistic Regression,81.57,81.57,81.5,81.52
+Full-Dataset mBERT,87.5,87.53,87.58,87.5

@@ -1,0 +1,55 @@
+
+# =====================================
+# Multilingual Sentiment Analysis
+# Git Ignore Configuration
+# =====================================
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Large trained mBERT models
+models/mbert_full_dataset/
+models/mbert_cpu/
+models/mbert_improved/
+models/mbert_multilingual_v2/
+
+# Large model weight files
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Dataset files
+data/raw/
+data/processed/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
